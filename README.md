@@ -1,5 +1,10 @@
 # hello-world
-this is my first repository
+## this is my first repository
 
-My name is Bard Kukielski.  
-I love cheeseburgers.
+My _name_ is Bard Kukielski.  
+I love **cheeseburgers**.  
+
+I also like:  
+* My family  
+* Lions  
+* Hobbits 
