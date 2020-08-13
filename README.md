@@ -1,4 +1,4 @@
-# Bard's Bow
+# Bard The Bowman
 ## Learning to shoot straight
 #### this is my first repository
 
