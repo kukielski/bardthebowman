@@ -1,5 +1,6 @@
-# hello-world
-## this is my first repository
+# Bard's Bow
+## Learning to shoot straight
+#### this is my first repository
 
 My _name_ is Bard Kukielski.  
 I love **cheeseburgers**.  
